@@ -18,6 +18,8 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 
 MARCO TEÓRICO:
 
+![image](https://user-images.githubusercontent.com/93835463/155068317-17452a0b-4e5b-4894-8a1d-afda03293edb.png)
+
 EXPLICACIÓN DEL PROCEDIMIENTO:
 
 Los materiales utilizados son 
@@ -40,7 +42,6 @@ Realizar los calculos con una calculadora:
 
 ![image](https://user-images.githubusercontent.com/93835463/155049637-9fcb857a-0e74-4d91-bfa3-50d63d00419a.png)
 
-RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR:
 
 VIDEOS:
 
