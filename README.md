@@ -45,6 +45,14 @@ Realizar los calculos con una calculadora:
 
 VIDEOS:
 
+https://www.youtube.com/watch?v=DVnZzaltGlc
+
 CONCLUSIONES:
 
+En el presente laboratorio pusimos a prueba nuestros conocimientos aritmeticos con numeros complejos, para lo cual transformamos los valores de los fasores a coordenadas 
+
+rectangulares y polares dependiendo de la complejidad del ejercicio para una mejor comprension segun el caso
+
 BIBLIOGRAFÍA:
+
+Representación fasorial - FisicaPractica.Com. (s. f.). fisicapractica. Recuperado 22 de febrero de 2022, de https://www.fisicapractica.com/fasores.php
